@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 f04469bef7db1964b6c43c444aa52c46fe717768 Palak Patel <you@example.com> 1792872676 +0530	commit (initial): Save Skillwallet project with live weather advisory
-f04469bef7db1964b6c43c444aa52c46fe717768 0000000000000000000000000000000000000000 Palak Patel <you@example.com> 1792873012 +0530	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 f04469bef7db1964b6c43c444aa52c46fe717768 Palak Patel <you@example.com> 1792873012 +0530	Branch: renamed refs/heads/master to refs/heads/main
-f04469bef7db1964b6c43c444aa52c46fe717768 ec702b7ab5abdf60c6abf78c8c1744ce6ef65956 Palak Patel <you@example.com> 1792902943 +0530	commit: Configure frontend API for deployment
-ec702b7ab5abdf60c6abf78c8c1744ce6ef65956 ca1aad12598779e147910959248bdc9bcd83ee83 Palak Patel <you@example.com> 1792904573 +0530	commit: Fix CORS for deployed frontend
-ca1aad12598779e147910959248bdc9bcd83ee83 0000000000000000000000000000000000000000 Lakshita Porwal <lakshitaporwal28@gmail.com> 1792986426 +0530	Branch: renamed refs/heads/main to refs/heads/main
-ca1aad12598779e147910959248bdc9bcd83ee83 ca1aad12598779e147910959248bdc9bcd83ee83 Lakshita Porwal <lakshitaporwal28@gmail.com> 1792986426 +0530	Branch: renamed refs/heads/main to refs/heads/main
